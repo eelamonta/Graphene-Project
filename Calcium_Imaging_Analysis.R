@@ -1,6 +1,4 @@
 # Custom_Imaging_Analysis.R
-# 
-
 
 install.packages("ggplot2")
 install.packages("pheatmap")
